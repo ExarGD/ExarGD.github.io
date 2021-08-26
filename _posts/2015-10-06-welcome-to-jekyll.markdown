@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  ""
 date:   2015-10-06 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: https://cdna.artstation.com/p/assets/images/images/018/875/534/large/aida-muba-img-20190620-145854-01.jpg
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
-
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+![Picture 1](https://cdna.artstation.com/p/assets/images/images/018/875/534/large/aida-muba-img-20190620-145854-01.jpg)
