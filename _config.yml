@@ -12,3 +12,6 @@ instagram_username:  aida_muba
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+imagesurl: "/assets/images/"
+thumbsurl: "/assets/thumbnails/"
